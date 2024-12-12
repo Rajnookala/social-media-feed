@@ -1,0 +1,158 @@
+.box {
+  height: 341px;
+  width: 328px;
+}
+
+.box .group {
+  height: 341px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 334px;
+}
+
+.box .overlap-group {
+  background-color: #f7eaff;
+  border-radius: 26px;
+  height: 341px;
+  position: relative;
+  width: 328px;
+}
+
+.box .element {
+  height: 168px;
+  left: 12px;
+  position: absolute;
+  top: 120px;
+  width: 184px;
+}
+
+.box .element-fc-f-fc-fc {
+  height: 168px;
+  left: 202px;
+  object-fit: cover;
+  position: absolute;
+  top: 120px;
+  width: 114px;
+}
+
+.box .element-f-ce-e {
+  height: 40px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 40px;
+}
+
+.box .text-wrapper {
+  color: #000000;
+  font-family: "Karla-SemiBold", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.box .div {
+  color: #000000;
+  font-family: "Kumbh Sans-Regular", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 36px;
+  white-space: nowrap;
+}
+
+.box .just-arrived-in-new {
+  color: transparent;
+  font-family: "Kumbh Sans-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 66px;
+  width: 304px;
+}
+
+.box .span {
+  color: #000000;
+}
+
+.box .text-wrapper-2 {
+  color: #3c8dff;
+}
+
+.box .group-2 {
+  height: 20px;
+  left: 12px;
+  position: absolute;
+  top: 304px;
+  width: 40px;
+}
+
+.box .text-wrapper-3 {
+  color: #d85b7f;
+  font-family: "Kumbh Sans-SemiBold", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+}
+
+.box .react-icons-hi {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.box .frame {
+  align-items: center;
+  background-color: #00000012;
+  border-radius: 30px;
+  display: flex;
+  gap: 4px;
+  height: 30px;
+  justify-content: center;
+  left: 224px;
+  padding: 7px 26px;
+  position: absolute;
+  top: 299px;
+  width: 92px;
+}
+
+.box .icon-fill-navigation {
+  height: 16px;
+  margin-left: -9.50px;
+  position: relative;
+  width: 16px;
+}
+
+.box .text-wrapper-4 {
+  color: #000000;
+  font-family: "Karla-SemiBold", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -9.50px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

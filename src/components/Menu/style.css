@@ -1,0 +1,16 @@
+.box {
+  height: 50px;
+  width: 50px;
+}
+
+.box .menu {
+  background-image: url(./49-3ce-76-0bc-06-7f-253-0d-7336-5ace-0d-6-6c.png);
+  background-position: center;
+  background-size: cover;
+  height: 50px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 50px;
+}
+

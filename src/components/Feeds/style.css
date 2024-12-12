@@ -1,0 +1,17 @@
+.label {
+  height: 28px;
+  width: 68px;
+}
+
+.label .text-wrapper {
+  color: #000000;
+  font-family: "Karla-ExtraBold", Helvetica;
+  font-size: 24px;
+  font-weight: 800;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: fixed;
+  top: 0;
+  white-space: nowrap;
+}

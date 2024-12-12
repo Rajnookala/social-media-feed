@@ -1,0 +1,18 @@
+.box {
+  height: 341px;
+  width: 328px;
+}
+
+.box .rectangle {
+  background-color: #f7eaff;
+  border-radius: 26px;
+  height: 341px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 328px;
+}
+%;
+  width: 100%;
+  position: relative;
+}

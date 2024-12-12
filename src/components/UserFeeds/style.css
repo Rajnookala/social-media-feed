@@ -1,0 +1,230 @@
+.user-feeds {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.user-feeds .group {
+  height: 341px;
+  margin-right: -6.00px;
+  position: relative;
+  width: 334px;
+}
+
+.user-feeds .overlap-group {
+  background-color: #f7eaff;
+  border-radius: 26px;
+  height: 341px;
+  position: relative;
+  width: 328px;
+}
+
+.user-feeds .element {
+  height: 168px;
+  left: 12px;
+  position: absolute;
+  top: 120px;
+  width: 184px;
+}
+
+.user-feeds .element-fc-f-fc-fc {
+  height: 168px;
+  left: 202px;
+  object-fit: cover;
+  position: absolute;
+  top: 120px;
+  width: 114px;
+}
+
+.user-feeds .img {
+  height: 40px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 40px;
+}
+
+.user-feeds .text-wrapper {
+  color: #000000;
+  font-family: "Karla-SemiBold", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.user-feeds .div {
+  color: #000000;
+  font-family: "Kumbh Sans-Regular", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 36px;
+  white-space: nowrap;
+}
+
+.user-feeds .just-arrived-in-new {
+  color: transparent;
+  font-family: "Kumbh Sans-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 66px;
+  width: 304px;
+}
+
+.user-feeds .span {
+  color: #000000;
+}
+
+.user-feeds .text-wrapper-2 {
+  color: #3c8dff;
+}
+
+.user-feeds .group-2 {
+  height: 20px;
+  left: 12px;
+  position: absolute;
+  top: 304px;
+  width: 40px;
+}
+
+.user-feeds .text-wrapper-3 {
+  color: #d85b7f;
+  font-family: "Kumbh Sans-SemiBold", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+}
+
+.user-feeds .react-icons-hi {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.user-feeds .frame {
+  align-items: center;
+  background-color: #00000012;
+  border-radius: 30px;
+  display: flex;
+  gap: 4px;
+  height: 30px;
+  justify-content: center;
+  left: 224px;
+  padding: 7px 26px;
+  position: absolute;
+  top: 299px;
+  width: 92px;
+}
+
+.user-feeds .icon-fill-navigation {
+  height: 16px;
+  margin-left: -9.50px;
+  position: relative;
+  width: 16px;
+}
+
+.user-feeds .text-wrapper-4 {
+  color: #000000;
+  font-family: "Karla-SemiBold", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -9.50px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.user-feeds .overlap {
+  background-color: #fffaee;
+  border-radius: 26px;
+  height: 341px;
+  position: relative;
+  width: 328px;
+}
+
+.user-feeds .react-icons-hi-wrapper {
+  background-image: url(./c-9-7a-3-0c-7acb-237-0d-5eeffc-71-7f-7e-8-7ac.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 168px;
+  left: 12px;
+  position: absolute;
+  top: 120px;
+  width: 304px;
+}
+
+.user-feeds .react-icons-hi-2 {
+  height: 40px;
+  left: 132px;
+  position: absolute;
+  top: 64px;
+  width: 40px;
+}
+
+.user-feeds .taking-a-moment-to {
+  color: transparent;
+  font-family: "Kumbh Sans-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 66px;
+  width: 304px;
+}
+
+.user-feeds .text-wrapper-5 {
+  color: #d85b7f;
+  font-family: "Karla-SemiBold", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.user-feeds .react-icons-hi-3 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.user-feeds .icon-fill-navigation-2 {
+  height: 16px;
+  margin-right: -1076.00px;
+  margin-top: -402.00px;
+  position: relative;
+  width: 16px;
+}
